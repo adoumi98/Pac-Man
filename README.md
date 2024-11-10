@@ -1,1 +1,1 @@
-# Pac-Man
+# PacMan
